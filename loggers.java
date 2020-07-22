@@ -67,7 +67,7 @@ private double r;
     {
          l.info("Entered into simpleIntrest method");
         return ((this.p)*(this.r)*(this.t))/100;
-        l.info("Entered into setPrinciple method");
+        l.info("Exited the simpleIntrest method");
    
     }
 
@@ -76,7 +76,7 @@ private double r;
     {
         l.info("Entred into compoundIntrest method");
        return this.p*(Math.pow((1+this.r),this.t)-1);
-       l.info("Entered into setPrinciple method");
+       l.info("Exited the compundIntrest method");
     
     }
 
