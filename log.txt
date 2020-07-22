@@ -11,6 +11,6 @@
 2020-07-22 16:59:42 INFO  com.epam.loggingdemo.App:36 -Entered into getTime method
 2020-07-22 16:59:42 INFO  com.epam.loggingdemo.App:38 -Exited the getTime method
 2020-07-22 16:59:42 INFO  com.epam.loggingdemo.App:39 -Entered into simpleIntrest method
-2020-07-22 16:59:42 INFO  com.epam.loggingdemo.App:41 -Entered into setPrinciple method
+2020-07-22 16:59:42 INFO  com.epam.loggingdemo.App:41 -Exited the simpleIntrest method
 2020-07-22 16:59:42 INFO  com.epam.loggingdemo.App:43 -Entred into compoundIntrest method
-2020-07-22 16:59:42 INFO  com.epam.loggingdemo.App:45 -Entered into setPrinciple method
+2020-07-22 16:59:42 INFO  com.epam.loggingdemo.App:45 -Exited the compoundIntrest method
